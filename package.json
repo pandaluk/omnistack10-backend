@@ -1,0 +1,11 @@
+{
+  "name": "omnistack10-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pandaluk/omnistack10-backend.git",
+  "author": "Arthur <arthur.silva1@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
